@@ -1,4 +1,4 @@
-# This functions works by taking wins, draws and losses and computing a teams total points
+# This script works by taking wins, draws and losses and computing a teams total points
 # In this scenario, a win = 3 points, a draw = 1 point and a loss = 0 points
 onesTeamName = input("Enter the Name of your name : ")
 wonMatches = input("Kindly enter the number of matches your team won :  ")
